@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Google",
+    "url": "https://www.google.com",
+    "faviconUrl": "https://www.google.com/favicon.ico"
+  },
+  {
+    "title": "OpenAI",
+    "url": "https://www.openai.com",
+    "faviconUrl": "https://www.openai.com/favicon.ico"
+  },
+  {
+    "title": "Flutter",
+    "url": "https://flutter.dev",
+    "faviconUrl": "https://flutter.dev/favicon.ico"
+  }
+]
